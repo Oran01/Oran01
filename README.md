@@ -1,6 +1,4 @@
 <img src="https://github.com/Oran01/Oran01/blob/main/banner.png" alt="Banner of software-developer">
-
-
 <h2 align="left">About me</h2>
 
 ###
