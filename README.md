@@ -79,5 +79,5 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Oran01}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/Oran01/count.svg" alt="Visitor's Count" />
 </div>
