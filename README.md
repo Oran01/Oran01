@@ -1,16 +1,21 @@
+<img src="[https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png](https://github.com/Oran01/Oran01/blob/main/banner.png)" alt="Banner of software-developer">
+
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+###
+
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
