@@ -59,7 +59,7 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Oran01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Oran01's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=Oran01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oran01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Oran01's Most Used Languages" />
 </div>
 
