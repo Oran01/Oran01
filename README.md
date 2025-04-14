@@ -1,14 +1,20 @@
 <p align="center">
   <img src="https://github.com/Oran01/Oran01/blob/main/banner.png" alt="Banner of software-developer" style="max-width: 100%; width: 700px;">
 </p>
+
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+I'm a software engineer with a passion for fullstack development. I enjoy building modern, responsive applications from the ground up — from backend logic to polished frontend interfaces.<br><br>
+I’ve worked on a variety of personal projects that helped me explore technologies like React, Node.js, Next.js, and Prisma I'm always curious, constantly learning, and love turning ideas into real products. 🚀
+</p>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/Oran-Alster" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
+
 ###
 
 <h2 align="left">🛠️ Languages and Tools</h2>
