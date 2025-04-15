@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png" alt="Banner of software-developer" style="max-width: 100%; width: 700px;">
+  <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png" alt="Banner of software-developer" style="max-width: 100%; width: 100%;">
 </p>
 
 <h2 align="left">About me</h2>
