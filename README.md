@@ -65,7 +65,6 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 <hr>
 
-
 ## 🐍 My Contributions
 
 <div align="center">
