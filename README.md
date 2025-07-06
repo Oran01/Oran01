@@ -19,6 +19,8 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 ### 🛠️ Languages and Tools
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" />
