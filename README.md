@@ -47,12 +47,23 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 <p align="center">
   <img src="https://github.com/Oran01/Oran01/blob/main/MacBook.gif?raw=true" width="800" height="450" />
+  <br />
+  <b>💻 Apple MacBook Website</b><br/>
+  <i>3D scroll-driven product demo built with React, Three.js, and GSAP.</i>
 </p>
+
 <p align="center">
   <img src="https://github.com/Oran01/Oran01/blob/main/Zentry.gif?raw=true" width="800" height="450" />
+  <br />
+  <b>🎮 Zentry – Immersive Web Experience</b><br/>
+  <i>Visually rich, animated interface powered by React, Vite, and GSAP.</i>
 </p>
+
 <p align="center">
   <img src="https://github.com/Oran01/Oran01/blob/main/Brainwave.gif?raw=true" width="800" height="450" />
+  <br />
+  <b>🧠 Brainwave - AI Chat UI/UX</b><br/>
+  <i>Modern, responsive UI for an AI-powered chat app built with React.</i>
 </p>
 
 <hr>
