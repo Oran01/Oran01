@@ -39,6 +39,12 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 ###
 
+## 🚀 My Projects
+
+<p aligen="center">
+  <img src="https://github.com/Oran01/Oran01/blob/main/Brainwave.gif?raw=true" height="495" width="960" />
+</p>
+
 ## ⚡️ Stats
 
 <br>
