@@ -17,6 +17,8 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 ###
 
+<hr>
+
 <h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
@@ -39,6 +41,8 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 ###
 
+<hr>
+
 ## 🚀 My Projects
 
 <p align="center">
@@ -50,6 +54,8 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 <p align="center">
   <img src="https://github.com/Oran01/Oran01/blob/main/Brainwave.gif?raw=true" width="800" height="450" />
 </p>
+
+<hr>
 
 ## ⚡️ Stats
 
