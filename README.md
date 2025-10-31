@@ -41,8 +41,14 @@ I’ve worked on a variety of personal projects that helped me explore technolog
 
 ## 🚀 My Projects
 
-<p aligen="center">
-  <img src="https://github.com/Oran01/Oran01/blob/main/Brainwave.gif?raw=true" height="495" width="960" />
+<p align="center">
+  <img src="https://github.com/Oran01/Oran01/blob/main/MacBook.gif?raw=true" width="960" height="495" />
+</p>
+<p align="center">
+  <img src="https://github.com/Oran01/Oran01/blob/main/Zentry.gif?raw=true" width="960" height="495" />
+</p>
+<p align="center">
+  <img src="https://github.com/Oran01/Oran01/blob/main/Brainwave.gif?raw=true" width="960" height="495" />
 </p>
 
 ## ⚡️ Stats
