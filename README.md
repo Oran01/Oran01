@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-I'm a software engineer with a passion for fullstack development. I enjoy building modern, responsive applications from the ground up — from backend logic to polished frontend interfaces.<br><br>
+I'm a software engineer with a passion for fullstack development. I enjoy building modern, responsive applications from the ground up - from backend logic to polished frontend interfaces.<br><br>
 I’ve worked on a variety of personal projects that helped me explore technologies like React, Node.js, Next.js, and Prisma I'm always curious, constantly learning, and love turning ideas into real products. 🚀
 </p>
 
