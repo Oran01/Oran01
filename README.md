@@ -5,8 +5,10 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-I'm a software engineer with a passion for fullstack development. I enjoy building modern, responsive applications from the ground up - from backend logic to polished frontend interfaces.<br><br>
-I’ve worked on a variety of personal projects that helped me explore technologies like React, Node.js, Next.js, and Prisma I'm always curious, constantly learning, and love turning ideas into real products. 🚀
+I'm a software engineer specializing in full stack development, with hands-on experience building modern web applications using React, Node.js, and Next.js.<br><br>
+I specialize in creating highly interactive UIs, automating workflows with tools like n8n, and integrating AI capabilities using platforms like Gemini.<br><br>
+My <a href="https://mac-os-portfolio-wheat.vercel.app/" target="_blank">portfolio</a> includes projects such as AI-powered mock interview platforms, real-time stock dashboards with AI insights, immersive animated web experiences, AI-based resume analysis tools, and interactive 3D product viewers built with Three.js.<br><br>
+I'm passionate about solving complex problems with clean, scalable code – and I love turning creative ideas into working products.
 </p>
 
 <div align="center">
