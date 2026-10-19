@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png" alt="Banner of software-developer" style="max-width: 100%; width: 100%;">
+  <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png?raw=true" alt="GitHub Profile Banner" width="100%">
 </p>
 
 <h2 align="left">👨‍💻 About Me</h2>
@@ -21,13 +21,9 @@ I recently completed the <b>IBM RAG & Agentic AI Professional Certificate</b>, g
   </li>
 </ul>
 
-<p align="center">
-  <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png?raw=true" alt="GitHub Profile Banner" width="100%">
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/Oran-Alster" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 </div>
 
