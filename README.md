@@ -2,13 +2,27 @@
   <img src="https://github.com/Oran01/Oran01/blob/main/github-header-image.png" alt="Banner of software-developer" style="max-width: 100%; width: 100%;">
 </p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I'm a software engineer specializing in full stack development, with hands-on experience building modern web applications using React, Node.js, and Next.js.<br><br>
-I specialize in creating highly interactive UIs, automating workflows with tools like n8n, and integrating AI capabilities using platforms like Gemini.<br><br>
-My <a href="https://mac-os-portfolio-wheat.vercel.app/" target="_blank">portfolio</a> includes projects such as AI-powered mock interview platforms, real-time stock dashboards with AI insights, immersive animated web experiences, AI-based resume analysis tools, and interactive 3D product viewers built with Three.js.<br><br>
-I'm passionate about solving complex problems with clean, scalable code – and I love turning creative ideas into working products.
+I'm a Software Engineering graduate (B.Sc.) building full-stack applications and AI-powered systems, from React/Next.js frontends to Node.js and Python backends, workflow automation, and production deployments.
+<br><br>
+I recently completed the <b>IBM RAG & Agentic AI Professional Certificate</b>, gaining practical knowledge of RAG, AI agents, LangGraph, LangChain, and vector databases.
+</p>
+
+<h3 align="left">🚀 Featured Work</h3>
+
+<ul>
+  <li>
+    <b>DeepTrace AI</b> – A multi-agent research platform built with Python, LangGraph, and RAG, featuring evidence verification, independent source corroboration, and evidence-grounded reports.
+  </li>
+  <li>
+    <b>Oevex SEO Audit</b> – A production SEO analysis platform featuring Playwright-based crawling, 40+ deterministic checks, AI-powered insights, and automated reporting.
+  </li>
+</ul>
+
+<p align="left">
+Explore more of my work through my <a href="https://mac-os-portfolio-wheat.vercel.app/">portfolio</a>.
 </p>
 
 <div align="center">
