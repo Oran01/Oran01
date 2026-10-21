@@ -111,8 +111,8 @@ RTL PDF export, and PayPal payments with server-side verification.
     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" width="52" alt="LangChain" title="LangChain" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/openai/412991" height="40" width="52" alt="OpenAI" title="OpenAI" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" height="40" width="52" alt="OpenAI" title="OpenAI" />
   </picture>
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" width="52" alt="Google Gemini" title="Google Gemini" />
   <picture>
