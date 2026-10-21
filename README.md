@@ -110,10 +110,6 @@ RTL PDF export, and PayPal payments with server-side verification.
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/FFFFFF" />
     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" width="52" alt="LangChain" title="LangChain" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" height="40" width="52" alt="OpenAI" title="OpenAI" />
-  </picture>
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" width="52" alt="Google Gemini" title="Google Gemini" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/claude/FFFFFF" />
@@ -121,6 +117,10 @@ RTL PDF export, and PayPal payments with server-side verification.
   </picture>
   <img src="https://cdn.simpleicons.org/n8n" height="40" width="52" alt="n8n" title="n8n" />
 </div>
+
+</div>
+
+<br>
 
 <p align="center">
   <b>LangGraph · RAG · AI Agents · LLM APIs</b>
